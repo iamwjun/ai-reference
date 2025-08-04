@@ -1,4 +1,4 @@
-# Artificial Intelligence Reference
+# Artificial Intelligence Tools
 
 ##### #Speech Trident -> [https://github.com/ga642381/speech-trident](https://github.com/ga642381/speech-trident)
 
